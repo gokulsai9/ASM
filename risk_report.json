@@ -1,0 +1,622 @@
+[
+  {
+    "url": "https://enterprise.wheelseye.com",
+    "riskScore": 8.3,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://ftl.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://installer.wheelseye.com",
+    "riskScore": 36.7,
+    "status_code": 404,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://thor.wheelseye.com",
+    "riskScore": 36.7,
+    "status_code": 404,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://api.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 503,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://people.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 503,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://god.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 502,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://thordevops.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 502,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://thor-uat.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 503,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://hooks.wheelseye.com",
+    "riskScore": 40.7,
+    "status_code": 502,
+    "server": "awselb/2.0",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://payments.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://dl.consigner.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://api-v2.wheelseye.com",
+    "riskScore": 36.7,
+    "status_code": 404,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://metabase.wheelseye.com",
+    "riskScore": 8.1,
+    "status_code": 200,
+    "server": "nginx/1.22.1",
+    "missingHeaders": [
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      }
+    ]
+  },
+  {
+    "url": "https://dl.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://www.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://matrix.uat.wheelseye.com",
+    "riskScore": 38.7,
+    "status_code": 503,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://matrix.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://consigner.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  },
+  {
+    "url": "https://odin.wheelseye.com",
+    "riskScore": 33.7,
+    "status_code": 200,
+    "server": "Not Exposed",
+    "missingHeaders": [
+      {
+        "header": "Strict-Transport-Security",
+        "cwe": "CWE-523",
+        "cvssScore": 7.5
+      },
+      {
+        "header": "X-Content-Type-Options",
+        "cwe": "CWE-16",
+        "cvssScore": 5.3
+      },
+      {
+        "header": "X-Frame-Options",
+        "cwe": "CWE-1021",
+        "cvssScore": 6.5
+      },
+      {
+        "header": "X-Xss-Protection",
+        "cwe": "CWE-79",
+        "cvssScore": 6.1
+      },
+      {
+        "header": "Content-Security-Policy",
+        "cwe": "CWE-358",
+        "cvssScore": 8.3
+      }
+    ]
+  }
+]

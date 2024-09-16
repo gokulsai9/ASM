@@ -1,0 +1,21 @@
+[
+  {
+    "IP":"13.232.227.181",
+    "Port":443,
+    "Issuer":"\/C=US\/O=Amazon\/CN=Amazon RSA 2048 M02",
+    "CN":[
+      "wheelseye.com"
+    ],
+    "SANs":[
+      "wheelseye.com",
+      "*.wheelseye.com"
+    ],
+    "CertificateChain":[
+      {
+        "Depth":0,
+        "Subject":"\/CN=wheelseye.com",
+        "Issuer":"\/C=US\/O=Amazon\/CN=Amazon RSA 2048 M02"
+      }
+    ]
+  }
+]
